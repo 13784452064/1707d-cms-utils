@@ -9,6 +9,7 @@ public class StringUtils {
 	 * @return
 	 * @return: boolean
 	 */
+	//云端修改
 		public static boolean isBlank(String str) {
 			return (str==null||str.trim().equals("")) ;
 }
